@@ -1,0 +1,15 @@
+.Login-main-container {
+    float: left;
+    position: relative;
+    left: 50%;
+}
+
+.Login-fixer-container {
+    float: left;
+    position: relative;
+    left: -50%;
+}
+
+.Login-error {
+    border: 1px solid red;
+}

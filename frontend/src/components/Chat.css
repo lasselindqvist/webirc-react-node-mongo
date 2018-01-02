@@ -1,0 +1,29 @@
+.Chat-messages {
+    height: 600px;
+    width: 800px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.Chat-inputCommand {
+    width: 600px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.Chat-main-container {
+    float: left;
+    position: relative;
+    left: 50%;
+}
+
+.Chat-fixer-container {
+    float: left;
+    position: relative;
+    left: -50%;
+}
+
+.Chat-channel-dropdown {
+    margin-left: 10px;
+    margin-right: 10px;
+}

@@ -1,0 +1,21 @@
+{
+  "author": "",
+  "dependencies": {
+    "cors": "^2.8.4",
+    "express-ws": "^3.0.0",
+    "mongoose": "^4.13.7",
+    "nodemon": "^1.14.3"
+  },
+  "description": "",
+  "license": "ISC",
+  "main": "server.js",
+  "name": "webirc-app-backend",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server.js"
+  },
+  "standard": {
+    "parser": "babel-eslint"
+  },
+  "version": "1.0.0"
+}

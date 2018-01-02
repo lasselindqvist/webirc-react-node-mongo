@@ -1,0 +1,33 @@
+{
+  "dependencies": {
+    "moment": "^2.20.1",
+    "react": "^16.2.0",
+    "react-async-poll": "^1.0.0",
+    "react-dom": "^16.2.0",
+    "react-scripts": "1.0.17",
+    "react-toastify": "^3.2.1"
+  },
+  "devDependencies": {
+    "babel-eslint": "^7.2.3",
+    "eslint": "^3.19.0",
+    "eslint-config-standard": "^11.0.0-beta.0",
+    "eslint-plugin-import": "^2.8.0",
+    "eslint-plugin-node": "^5.2.1",
+    "eslint-plugin-promise": "^3.6.0",
+    "eslint-plugin-standard": "^3.0.1",
+    "standard": "^10.0.3"
+  },
+  "name": "webirc-app-frontend",
+  "private": true,
+  "proxy": "http://localhost:3001",
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "standard": {
+    "parser": "babel-eslint"
+  },
+  "version": "0.1.0"
+}
