@@ -8,11 +8,11 @@ or start incrementing their username after each lost connection (guest1, guest2,
 
 The chat itself has a few example commands.
 
-/join to join a channel
-/part to leave a channel
-/ignore to ignore messages from certain users
-/unignore to stop ignoring messages from certain users
-/say to say something starting with "/"
+* /join to join a channel
+* /part to leave a channel
+* /ignore to ignore messages from certain users
+* /unignore to stop ignoring messages from certain users
+* /say to say something starting with "/"
 
 Otherwise just type anything to say it.
 
@@ -21,5 +21,5 @@ Otherwise just type anything to say it.
 This project consists of three required parts.
 
 1. MondoDB (https://www.mongodb.com/) database. Install it and run it in default port on local machine.
-2. The Node.js backend found in folder "backend". Install it with "npm install". Run it with "npm start" in its folder.
-3. The React frontend found in folder "frontend". Install it with "npm install". Run it with "nmp start" in its folder.
+2. The Node.js backend found in folder `backend`. Install it with `npm install`. Run it with `npm start` in its folder.
+3. The React frontend found in folder `frontend`. Install it with `npm install`. Run it with `nmp start` in its folder.
